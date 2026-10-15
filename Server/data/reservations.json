@@ -1,0 +1,16 @@
+{
+  "records": [
+    {
+      "id": "rec_reservation_1",
+      "fields": {
+        "ReservationId": 1,
+        "UserId": 1,
+        "BookId": 1,
+        "BookTitle": "Война и мир",
+        "Status": "Возвращена",
+        "ReturnDate": "2026-10-29",
+        "CreatedAt": "2026-10-15T10:00:00Z"
+      }
+    }
+  ]
+}

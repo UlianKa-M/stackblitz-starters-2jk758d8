@@ -1,0 +1,10 @@
+{
+  "records": [
+    { "id": "rec_book_1", "fields": { "BookId": 1, "Title": "Война и мир", "Author": "Л.Н. Толстой", "Genre": "Классика", "Description": "Роман-эпопея о русском обществе в эпоху наполеоновских войн", "Year": 1869, "Available": true } },
+    { "id": "rec_book_2", "fields": { "BookId": 2, "Title": "Преступление и наказание", "Author": "Ф.М. Достоевский", "Genre": "Классика", "Description": "Психологический роман о студенте Раскольникове", "Year": 1866, "Available": true } },
+    { "id": "rec_book_3", "fields": { "BookId": 3, "Title": "Мастер и Маргарита", "Author": "М.А. Булгаков", "Genre": "Фантастика", "Description": "Мистический роман о дьяволе в Москве", "Year": 1967, "Available": false } },
+    { "id": "rec_book_4", "fields": { "BookId": 4, "Title": "1984", "Author": "Дж. Оруэлл", "Genre": "Антиутопия", "Description": "Роман о тоталитарном обществе", "Year": 1949, "Available": true } },
+    { "id": "rec_book_5", "fields": { "BookId": 5, "Title": "Гарри Поттер и философский камень", "Author": "Дж. Роулинг", "Genre": "Фэнтези", "Description": "Первая книга о приключениях юного волшебника", "Year": 1997, "Available": true } },
+    { "id": "rec_book_6", "fields": { "BookId": 6, "Title": "Шерлок Холмс", "Author": "А.К. Дойл", "Genre": "Детектив", "Description": "Сборник рассказов о знаменитом сыщике", "Year": 1892, "Available": true } }
+  ]
+}

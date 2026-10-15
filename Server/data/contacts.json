@@ -1,0 +1,14 @@
+{
+  "records": [
+    {
+      "id": "rec_contacts_1",
+      "fields": {
+        "ContactId": 1,
+        "Phone": "+7 (8184) 56-78-90",
+        "Email": "info@citylibrary.ru",
+        "Address": "г. Северодвинск, ул. Ленина, 10",
+        "WorkHours": "Пн-Вс: 9:00-21:00"
+      }
+    }
+  ]
+}

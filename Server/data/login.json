@@ -1,0 +1,24 @@
+{
+  "records": [
+    {
+      "id": "rec_login_1",
+      "fields": {
+        "LoginId": 1,
+        "UserId": 1,
+        "Login": "shehurin",
+        "Password": "she123",
+        "Email": "shehur@safu.ru"
+      }
+    },
+    {
+      "id": "rec_login_2",
+      "fields": {
+        "LoginId": 2,
+        "UserId": 2,
+        "Login": "petrov",
+        "Password": "pet123",
+        "Email": "petrov@safu.ru"
+      }
+    }
+  ]
+}
